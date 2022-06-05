@@ -1,0 +1,33 @@
+/* body{
+    background-color:rgb(6, 155, 155);
+} */
+
+@media all and (min-width: 480px) {
+    .Signup {
+      padding: 60px 0;
+    }
+  
+    .Login form {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+
+    .form_group{
+        margin-top: 20px;
+        /* margin-left: 10px; */
+    }
+
+    .form_signup {
+        margin-left: 100px;
+    }
+
+    .form_button {
+        margin-left: 100px;
+    }
+
+    .header{
+      margin-left: 38%;
+    }
+
+    
+  }

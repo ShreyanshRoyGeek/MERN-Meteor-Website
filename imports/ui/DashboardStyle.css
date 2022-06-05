@@ -1,0 +1,42 @@
+/* body{
+  background-color:beige
+} */
+
+table {
+    border: 2px solid forestgreen;
+    width: 800px;
+    height: 200px;
+  }
+    
+  th {
+    border-bottom: 1px solid black;
+    text-align: center;
+  }
+    
+  td {
+    text-align: center;
+  }
+
+  .logout_button{
+    margin-left: 95%;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    color: #1cc49d;
+    background-color: #1b2f31;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 3em;
+    width: 8em;
+    font-size: large;
+    font-weight: 400;
+  }
+
+  .ref{
+    color: inherit;
+  }
+
+  .dropdown_button{
+    margin-bottom: 10px;
+  }
